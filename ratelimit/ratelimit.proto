@@ -15,7 +15,7 @@
 syntax = "proto3";
 
 //option go_package="test/zipkin/demo/proto/ratelimit";
-option go_package="github.com/HuanLiu-hotstar/proto/ratelimit/ratelimit";
+option go_package="github.com/HuanLiu-hotstar/proto/ratelimit";
 
 package ratelimit;
 
