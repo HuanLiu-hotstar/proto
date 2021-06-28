@@ -1,4 +1,4 @@
-module proto
+module github.com/HuanLiu-hotstar/proto
 
 go 1.16
 
